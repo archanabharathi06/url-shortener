@@ -1,4 +1,4 @@
-# Sniplink — Modern URL Shortener & SaaS Analytics
+# Sniplink 
 
 Sniplink is a production-quality MERN stack URL Shortener SaaS application. It enables users to secure login credentials, generate shortened links with custom aliases and expiration parameters, generate downloadable visual QR codes, and trace granular user-agent redirect statistics through interactive dashboards.
 
@@ -158,10 +158,4 @@ The following primary prompts were utilized during code generation:
 ## Demo Video
 [Link](YOUR_LOOM_LINK_HERE)
 
----
-
-## Sample Screenshots
-*Place database visual snapshots, server redirection hit logs, and responsive dashboard screenshots here.*
-
----
 This project is a part of a hackathon run by https://katomaran.com
