@@ -156,6 +156,6 @@ The following primary prompts were utilized during code generation:
 ---
 
 ## Demo Video
-[Link](YOUR_LOOM_LINK_HERE)
+[Link](https://youtu.be/X2SO-_8FLyA?si=k4FSA5N04wnv-UX3)
 
 This project is a part of a hackathon run by https://katomaran.com
